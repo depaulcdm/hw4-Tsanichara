@@ -26,12 +26,20 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
 https://github.com/depaulcdm/hw4-Tsanichara/blob/master/hello-world/build.xml
+
 https://github.com/depaulcdm/hw4-Tsanichara/blob/master/hello-world/ivy.xml
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
+![image](https://user-images.githubusercontent.com/47839828/154402836-120e79a0-afdf-4a15-bf80-df853b25a91b.png)
+
 - [10 pts] A screen capture showing a successful build using the Maven script.
+![image](https://user-images.githubusercontent.com/47839828/154402867-b0b0df5e-7b86-4987-9787-cec5c6f1842a.png)
+
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
+![image](https://user-images.githubusercontent.com/47839828/154402888-5379fd4c-7278-4df6-a8d7-007ec04fd1ae.png)
+
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
+https://github.com/depaulcdm/hw4-Tsanichara/blob/master/hello-world/pom.xml
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
