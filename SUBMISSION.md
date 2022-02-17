@@ -32,7 +32,8 @@ https://github.com/depaulcdm/hw4-Tsanichara/blob/master/hello-world/ivy.xml
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
 ![image](https://user-images.githubusercontent.com/47839828/154402836-120e79a0-afdf-4a15-bf80-df853b25a91b.png)
 
-- [10 pts] A screen capture showing a successful build using the Maven script.
+- [10 pts] A screen capture showing a successful build using the Maven script. 
+- Note: I had to change the java version in the file to 11 in order to get it to work.
 ![image](https://user-images.githubusercontent.com/47839828/154402867-b0b0df5e-7b86-4987-9787-cec5c6f1842a.png)
 
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
@@ -43,6 +44,13 @@ https://github.com/depaulcdm/hw4-Tsanichara/blob/master/hello-world/pom.xml
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+![image](https://user-images.githubusercontent.com/47839828/154403020-f23741cb-3798-431a-8bb3-334ea36bc015.png)
+
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+![image](https://user-images.githubusercontent.com/47839828/154403064-d68c32f0-f84f-4a8a-91e5-ea9e0ff99a52.png)
+
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+![image](https://user-images.githubusercontent.com/47839828/154403091-874c4d46-7b08-4dbf-aa06-843b1114ee59.png)
+
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+https://github.com/depaulcdm/hw4-Tsanichara/blob/master/hello-world/build.gradle
